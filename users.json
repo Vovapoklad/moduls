@@ -1,0 +1,39 @@
+[
+    {
+        "login": "admin",
+        "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+        "role": "Администратор",
+        "is_active": true,
+        "login_attempts": 0,
+        "last_login": "2025-05-20 01:50:47",
+        "must_change_password": false
+    },
+    {
+        "login": "vovap",
+        "password": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+        "role": "Пользователь",
+        "is_active": true,
+        "login_attempts": 0,
+        "last_login": "2025-05-20 01:11:03",
+        "must_change_password": false
+    },
+    {
+        "login": "vova1",
+        "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+        "role": "Пользователь",
+        "is_active": true,
+        "login_attempts": 0,
+        "last_login": "2025-05-20 01:24:30",
+        "must_change_password": false
+    },
+    {
+        "login": "vovapoklad",
+        "email": "dartanpokald490@gmail.com",
+        "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+        "role": "Пользователь",
+        "is_active": true,
+        "login_attempts": 0,
+        "last_login": "2025-05-20 02:05:04",
+        "must_change_password": false
+    }
+]
